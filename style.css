@@ -1,0 +1,338 @@
+.div1{
+    position: absolute;
+    left: 16%;
+    top: 30px;
+    width: 450px;
+    height: 580px;
+    background-color: #fff;
+    box-shadow:  8px 8px 20px 8px gray ;
+    border-radius: 5%;
+}
+
+
+.div2{
+    position: absolute;
+    left: 50%;
+    top: 30px;
+    width: 450px;
+    height: 580px;
+    background-color: #fff;
+    box-shadow:  8px 8px 20px 8px gray ;
+    border-radius: 5%;
+}
+
+
+.h3{
+    position: relative;
+    left: 10%;
+    color:blue;
+    font-size: medium;
+}
+
+.h1{
+    position: relative;
+    left: 40%;
+    top: -7%;
+    color: gray;
+}
+
+
+
+.h5{
+    position: relative;
+    left: 32%;
+    top: 7%;
+}
+
+
+
+.fa-book-open-reader{
+    position: relative;
+    left: 27%;
+    top: -1%;
+    color: gray;
+}
+
+
+.inputbox1{
+    position: relative;
+    left: 19%;
+    top: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+    width: 50%;
+    height: 3%;
+    outline-style: none;
+    border-style: none;
+    background-color: lightgrey;
+
+}
+
+
+input::placeholder{
+     font-weight: bold;
+     color: black; 
+}
+
+
+
+.h52{
+    position: relative;
+    left: 33%;
+    top: 5%;
+}
+
+
+.fa-key{
+    position: relative;
+    left: 27%;
+    top: -3%;
+    color: gray;
+}
+
+
+
+.inputbox2{
+    position: relative;
+    left: 19%;
+    top: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+    width: 50%;
+    height: 3%;
+    outline-style: none;
+    border-style: none;
+    background-color: lightgrey;
+}
+
+
+.button1{
+    position: relative;
+    left: -22%;
+    top: 15%;
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    width: 25%;
+    color: #fff;
+    border-style: none;
+
+}
+
+
+.Gbutton{
+    position: relative;
+    left: 36%;
+    top: 20%;
+    border: none;
+    background-color: transparent;
+
+}
+
+
+.fa-google-plus-square{
+    position: relative;
+    left: 5%;
+    top: 20%;
+    color: gray;
+}
+
+.fbutton{
+    position: relative;
+    left: 4%;
+    top: 26%;
+    border: none;
+    background-color: transparent;  
+}
+
+
+.fa-facebook-square{
+    position: relative;
+    left: -31%;
+    top: 26%;
+    color: gray;
+}
+
+
+.Tbutton{
+    position: relative;
+    left: -32%;
+    top: 32%;
+    border: none;
+    background-color: transparent;   
+}
+
+
+.fa-twitter-square{
+    position: relative;
+    left: -62%;
+    top: 32%;
+    color: gray;
+}
+
+
+
+
+.h41{
+    position: relative;
+    top: 38%;
+    left: 8%;
+    border: none;
+    background-color: transparent;
+}
+
+
+.h42{
+    position: relative;
+    top: 38%;
+    left: 40%;
+    border: none;
+    background-color: transparent;
+}
+
+
+.div2{
+    background-color: blue;
+}
+
+.div2h3{
+    position: relative;
+    left: 10%;
+    color: #fff;
+    font-size: medium;
+
+}
+
+
+.Customer{
+    position: relative;
+    left: 32%;
+    top: 7%; 
+    color: #fff;
+}
+
+
+.inputboxd1{
+    position: relative;
+    left: 19%;
+    top: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+    width: 50%;
+    height: 3%;
+    outline-style: none;
+    border-style: none;
+    background-color: #fff;
+}
+
+
+.password{
+    position: relative;
+    left: 33%;
+    top: 5%; 
+    color: #fff;
+}
+
+
+.inputboxd2{
+    position: relative;
+    left: 19%;
+    top: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+    width: 50%;
+    height: 3%;
+    outline-style: none;
+    border-style: none;
+    background-color: #fff;
+
+}
+
+
+.buttond2{
+    position: relative;
+    left: -22%;
+    top: 15%;
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    width: 25%;
+    color: black;
+    border-style: none; 
+    background-color: #fff;
+}
+
+
+.Gbuttond2{
+    position: relative;
+    left: 36%;
+    top: 20%;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+}
+
+
+.fbuttond2{
+    position: relative;
+    left: 4%;
+    top: 26%;
+    border: none;
+    background-color: transparent;  
+    color: #fff;
+}
+
+
+.Tbuttond2{
+    position: relative;
+    left: -32%;
+    top: 32%;
+    border: none;
+    background-color: transparent; 
+    color: #fff;
+}
+
+
+.h4d1{
+    position: relative;
+    top: 38%;
+    left: 8%;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+}
+
+
+.h4d2{
+    position: relative;
+    top: 38%;
+    left: 40%;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
